@@ -1,5 +1,5 @@
 line1 in feature-1
 line2 in feature-1
 line3 in feature-1
-line4 in feature-1
+line4 in feature-1 edited in feature-1 branch
 line5 in feature-1
